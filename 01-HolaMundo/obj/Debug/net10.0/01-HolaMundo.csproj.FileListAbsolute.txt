@@ -1,0 +1,16 @@
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.exe
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.deps.json
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.runtimeconfig.json
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\bin\Debug\net10.0\01-HolaMundo.pdb
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.AssemblyInfoInputs.cache
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.AssemblyInfo.cs
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.sourcelink.json
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\refint\01-HolaMundo.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.pdb
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaMundo.genruntimeconfig.cache
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\ref\01-HolaMundo.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\01-HolaMundo\obj\Debug\net10.0\01-HolaM.EC6922A9.Up2Date
